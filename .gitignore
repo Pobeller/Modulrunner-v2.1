@@ -1,0 +1,16 @@
+# Ignoriere Python-Bytecode und temporäre Dateien
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Ignoriere IDE-spezifische Dateien
+.vscode/
+.idea/
+
+# Ignoriere Umgebungsdateien
+.env/
+venv/
+env/

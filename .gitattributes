@@ -1,0 +1,9 @@
+# Textdateien normalisieren (Zeilenumbrüche anpassen)
+*.txt text
+*.md text
+*.py text
+
+# Binärdateien behandeln
+*.ico binary
+*.png binary
+*.jpg binary
